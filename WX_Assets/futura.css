@@ -1,0 +1,36 @@
+/*
+      www.OnlineWebFonts.Com 
+      You must credit the author Copy this link on your web 
+      <div>Font made from <a href="http://www.onlinewebfonts.com">oNline Web Fonts</a>is licensed by CC BY 3.0</div>
+      OR
+      <a href="http://www.onlinewebfonts.com">oNline Web Fonts</a>
+*/
+@font-face {font-family: "FuturaLTW01-LightOblique";
+    src: url("http://db.onlinewebfonts.com/t/9a7e574c3eda05d71d03345d3f9e268e.eot"); /* IE9*/
+    src: url("http://db.onlinewebfonts.com/t/9a7e574c3eda05d71d03345d3f9e268e.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("http://db.onlinewebfonts.com/t/9a7e574c3eda05d71d03345d3f9e268e.woff2") format("woff2"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/9a7e574c3eda05d71d03345d3f9e268e.woff") format("woff"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/9a7e574c3eda05d71d03345d3f9e268e.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
+    url("http://db.onlinewebfonts.com/t/9a7e574c3eda05d71d03345d3f9e268e.svg#FuturaLTW01-LightOblique") format("svg"); /* iOS 4.1- */
+}
+@font-face {
+    font-family: 'Futura LT Light';
+    src: url('Futura LT Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Futura Heavy Regular';
+    src: url('Futura Heavy Regular.otf') format('opentype');
+}
+@font-face {
+    font-family: 'FuturaLT-Light';
+    src: url('FuturaLT-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'FuturaLT-Bold';
+    src: url('../Assets/fonts/Futura LT/FuturaLT-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'FuturaLT';
+    src: url('../Assets/fonts/Futura LT/FuturaLT.ttf') format('truetype');
+}
